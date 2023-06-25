@@ -1,1 +1,3 @@
-# novi
+# Projektni zadatak
+
+Analiza podataka turisticke agencije
